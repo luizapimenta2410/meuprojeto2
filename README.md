@@ -5,7 +5,7 @@
 - Instalar VS CODE
 
 ```
-#Meu codigo executa
-print("ola muchacho)
+# Meu codigo executa
+print("ola muchacho")
 ```
 
